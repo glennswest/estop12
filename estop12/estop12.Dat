@@ -1,0 +1,9 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~estop12.PrjPcb|ReportField=ProjectFullPath~Z:\3dprinter\estop12\estop12\estop12.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [estop12.PcbDoc]|ReportField=TotalQuantity~38|ReportField=ReportTime~15:24:42|ReportField=ReportDate~11/06/2016|ReportField=ReportDateTime~11/06/2016 15:24:42|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~estop12.PcbDoc|ReportField=DataSourceFullPath~Z:\3dprinter\estop12\estop12\estop12.PcbDoc
+1|K104K10X7RF5UH5|0.10µF ±10% 50V X7R Ceramic Capacitor -55°C ~ 125°C Through Hole Radial 0.142" L x 0.091" W (3.60mm x 2.30mm)|C1, C2, C3, C4, C5, C7, C9, C11|CAPC500P450250X550|K104K10X7RF5UH5|8
+2|1N4733ATR|DIODE ZENER 5.1V 1W DO41|D1, D2, D3, D4|DO-41|DIODE ZENER 5.1V 1W DO41|4
+3|0455580003||J1|45558-NP|0455580003|1
+4|CONN_HEADER_1x3P_0.100in|Pin Header, THT, Single-row, 2.54mm pitch|J2, J3, J4, J5, J6, J7, J8, J9, J14|1x3POS_HEADER|CONN_HEADER_1x3P_0.100in|9
+5|B2B-XH-A(LF)(SN)|CONN HEADER XH TOP 2POS 2.5MM  JST B2B-XH-A(LF)(SN)|J10, J11, J12, J13|77311-118-02LF|B2B-XH-A(LF)(SN)|4
+6|15k|Resistor|R1, R2, R3, R4|AXIAL-0.3|Res1|4
+7|10k|Resistor|R5, R6, R7, R8|AXIAL-0.3|Res1|4
+8|3.2K|Resistor|R9, R10, R11, R12|AXIAL-0.3|Res1|4

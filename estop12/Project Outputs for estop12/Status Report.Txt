@@ -1,22 +1,9 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [estop12.PrjPcb]
-   Generated File[estop12.GTL]
-   Generated File[estop12.GBL]
-   Generated File[estop12.GPB]
-   Generated File[estop12.GPT]
-   Generated File[estop12.GTO]
-   Generated File[estop12.GTS]
-   Generated File[estop12.GBS]
-   Generated File[estop12.GKO]
-   Generated File[estop12.GM13]
-   Generated File[estop12.GM15]
-   Generated File[estop12.RUL]
-   Generated File[estop12.EXTREP]
-   Generated File[estop12.REP]
 
 
-Files Generated   : 13
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 15:03:06 On 11/06/2016
+Finished Output Generation At 15:29:52 On 11/06/2016
