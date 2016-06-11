@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=VCC5 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=VCC5 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=VCC5 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=VCC5 Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component C1 K104K10X7RF5UH5
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component C2 K104K10X7RF5UH5
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component C3 K104K10X7RF5UH5
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component C4 K104K10X7RF5UH5
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component C5 K104K10X7RF5UH5
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component C7 K104K10X7RF5UH5
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component C9 K104K10X7RF5UH5
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component C11 K104K10X7RF5UH5
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component D1 N4733ATR
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component D2 N4733ATR
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component D3 N4733ATR
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component D4 1N4733ATR
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component R9 3.2K
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component R10 3.2K
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component R11 3.2K
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component R12 3.2K

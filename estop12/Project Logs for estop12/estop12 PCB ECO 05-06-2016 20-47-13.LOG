@@ -1,0 +1,36 @@
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=R5(AXIAL-0.3)
+Added Component: Designator=R6(AXIAL-0.3)
+Added Component: Designator=R7(AXIAL-0.3)
+Added Component: Designator=R8(AXIAL-0.3)
+Added Pin To Net: NetName=ENDOUT0 Pin=R1-2
+Added Pin To Net: NetName=ENDOUT0 Pin=R2-2
+Added Net: Name=ENDOUT0
+Added Pin To Net: NetName=ENDOUT1 Pin=R3-2
+Added Pin To Net: NetName=ENDOUT1 Pin=R4-2
+Added Net: Name=ENDOUT1
+Added Pin To Net: NetName=ENDOUT2 Pin=R5-2
+Added Pin To Net: NetName=ENDOUT2 Pin=R6-2
+Added Net: Name=ENDOUT2
+Added Pin To Net: NetName=ENDOUT3 Pin=R7-2
+Added Pin To Net: NetName=ENDOUT3 Pin=R8-2
+Added Net: Name=ENDOUT3
+Added Pin To Net: NetName=ENDSTOP0 Pin=R1-1
+Added Net: Name=ENDSTOP0
+Added Pin To Net: NetName=ENDSTOP1 Pin=R3-1
+Added Net: Name=ENDSTOP1
+Added Pin To Net: NetName=ENDSTOP2 Pin=R5-1
+Added Net: Name=ENDSTOP2
+Added Pin To Net: NetName=ENDSTOP3 Pin=R7-1
+Added Net: Name=ENDSTOP3
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Net: Name=GND
+Added Net: Name=VIN
+Added Class: Name=Sheet1_Etop12
+Added Room: Name=Sheet1_Etop12

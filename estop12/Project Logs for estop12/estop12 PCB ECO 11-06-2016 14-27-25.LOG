@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=VCC5 Pin=R9-2
+Removed Pin From Net: NetName=VCC5 Pin=R10-2
+Removed Pin From Net: NetName=VCC5 Pin=R11-2
+Removed Pin From Net: NetName=VCC5 Pin=R12-2
+Change Component DesignItemId : Designator=J2 Old DesignItemId=B3B-XH-A(LF)(SN) New DesignItemId=CONN_HEADER_1x3P_0.100in
+Change Component DesignItemId : Designator=J3 Old DesignItemId=B3B-XH-A(LF)(SN) New DesignItemId=CONN_HEADER_1x3P_0.100in
+Change Component DesignItemId : Designator=J4 Old DesignItemId=B3B-XH-A(LF)(SN) New DesignItemId=CONN_HEADER_1x3P_0.100in
+Change Component DesignItemId : Designator=J5 Old DesignItemId=B3B-XH-A(LF)(SN) New DesignItemId=CONN_HEADER_1x3P_0.100in
+Change Component DesignItemId : Designator=J6 Old DesignItemId=B3B-XH-A(LF)(SN) New DesignItemId=CONN_HEADER_1x3P_0.100in
+Change Component DesignItemId : Designator=J7 Old DesignItemId=B3B-XH-A(LF)(SN) New DesignItemId=CONN_HEADER_1x3P_0.100in
+Change Component DesignItemId : Designator=J8 Old DesignItemId=B3B-XH-A(LF)(SN) New DesignItemId=CONN_HEADER_1x3P_0.100in
+Change Component DesignItemId : Designator=J9 Old DesignItemId=B3B-XH-A(LF)(SN) New DesignItemId=CONN_HEADER_1x3P_0.100in
+Change Component Footprint: Designator=J2 Old Footprint=B3B-XH-A(LF)(SN) New Footprint=1x3POS_HEADER
+Change Component Footprint: Designator=J3 Old Footprint=B3B-XH-A(LF)(SN) New Footprint=1x3POS_HEADER
+Change Component Footprint: Designator=J4 Old Footprint=B3B-XH-A(LF)(SN) New Footprint=1x3POS_HEADER
+Change Component Footprint: Designator=J5 Old Footprint=B3B-XH-A(LF)(SN) New Footprint=1x3POS_HEADER
+Change Component Footprint: Designator=J6 Old Footprint=B3B-XH-A(LF)(SN) New Footprint=1x3POS_HEADER
+Change Component Footprint: Designator=J7 Old Footprint=B3B-XH-A(LF)(SN) New Footprint=1x3POS_HEADER
+Change Component Footprint: Designator=J8 Old Footprint=B3B-XH-A(LF)(SN) New Footprint=1x3POS_HEADER
+Change Component Footprint: Designator=J9 Old Footprint=B3B-XH-A(LF)(SN) New Footprint=1x3POS_HEADER
+Change Component Comment : Designator=J2 Old Comment=JST 3-PIN New Comment=CONN_HEADER_1x3P_0.100in
+Change Component Comment : Designator=J3 Old Comment=JST 3-PIN New Comment=CONN_HEADER_1x3P_0.100in
+Change Component Comment : Designator=J4 Old Comment=JST 3-PIN New Comment=CONN_HEADER_1x3P_0.100in
+Change Component Comment : Designator=J5 Old Comment=JST 3-PIN New Comment=CONN_HEADER_1x3P_0.100in
+Change Component Comment : Designator=J6 Old Comment=JST 3-PIN New Comment=CONN_HEADER_1x3P_0.100in
+Change Component Comment : Designator=J7 Old Comment=JST 3-PIN New Comment=CONN_HEADER_1x3P_0.100in
+Change Component Comment : Designator=J8 Old Comment=JST 3-PIN New Comment=CONN_HEADER_1x3P_0.100in
+Change Component Comment : Designator=J9 Old Comment=JST 3-PIN New Comment=CONN_HEADER_1x3P_0.100in
+Added Component: Designator=J?(1x3POS_HEADER)
+Added Pin To Net: NetName=VCC5 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=PM Pin=J?-2
+Added Pin To Net: NetName=PM Pin=R9-2
+Added Pin To Net: NetName=PM Pin=R10-2
+Added Pin To Net: NetName=PM Pin=R11-2
+Added Pin To Net: NetName=PM Pin=R12-2
+Added Net: Name=PM
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component J? CONN_HEADER_1x3P_0.100in
+Added Room: Name=Sheet1_Etop12

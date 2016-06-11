@@ -1,0 +1,62 @@
+Added Component: Designator=C1(CAPC500P450250X550)
+Added Component: Designator=C2(CAPC500P450250X550)
+Added Component: Designator=C3(CAPC500P450250X550)
+Added Component: Designator=C4(CAPC500P450250X550)
+Added Component: Designator=C5(CAPC500P450250X550)
+Added Component: Designator=C6(CAPC500P450250X550)
+Added Component: Designator=C7(CAPC500P450250X550)
+Added Component: Designator=C8(CAPC500P450250X550)
+Added Component: Designator=C9(CAPC500P450250X550)
+Added Component: Designator=C10(CAPC500P450250X550)
+Added Component: Designator=C11(CAPC500P450250X550)
+Added Component: Designator=C12(CAPC500P450250X550)
+Added Component: Designator=D1(DO-41)
+Added Component: Designator=D2(DO-41)
+Added Component: Designator=D3(DO-41)
+Added Component: Designator=D4(DO-41)
+Added Component: Designator=R9(AXIAL-0.3)
+Added Component: Designator=R10(AXIAL-0.3)
+Added Component: Designator=R11(AXIAL-0.3)
+Added Component: Designator=R12(AXIAL-0.3)
+Added Pin To Net: NetName=ENDOUT0 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=ENDOUT1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=ENDOUT2 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=ENDOUT3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=ENDOUT0 Pin=D1-K
+Added Pin To Net: NetName=GND Pin=D2-A
+Added Pin To Net: NetName=ENDOUT1 Pin=D2-K
+Added Pin To Net: NetName=GND Pin=D3-A
+Added Pin To Net: NetName=ENDOUT2 Pin=D3-K
+Added Pin To Net: NetName=GND Pin=D4-A
+Added Pin To Net: NetName=ENDOUT3 Pin=D4-K
+Added Pin To Net: NetName=ENDOUT0 Pin=R9-1
+Added Pin To Net: NetName=ENDOUT1 Pin=R10-1
+Added Pin To Net: NetName=ENDOUT2 Pin=R11-1
+Added Pin To Net: NetName=ENDOUT3 Pin=R12-1
+Added Pin To Net: NetName=VCC5 Pin=C5-1
+Added Pin To Net: NetName=VCC5 Pin=C6-1
+Added Pin To Net: NetName=VCC5 Pin=C7-1
+Added Pin To Net: NetName=VCC5 Pin=C8-1
+Added Pin To Net: NetName=VCC5 Pin=C9-1
+Added Pin To Net: NetName=VCC5 Pin=C10-1
+Added Pin To Net: NetName=VCC5 Pin=C11-1
+Added Pin To Net: NetName=VCC5 Pin=C12-1
+Added Pin To Net: NetName=VCC5 Pin=J6-3
+Added Pin To Net: NetName=VCC5 Pin=R9-2
+Added Pin To Net: NetName=VCC5 Pin=R10-2
+Added Pin To Net: NetName=VCC5 Pin=R11-2
+Added Pin To Net: NetName=VCC5 Pin=R12-2
+Added Net: Name=VCC5

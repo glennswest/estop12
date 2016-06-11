@@ -1,0 +1,60 @@
+Added Component: Designator=J1(B3B-XH-A(LF)(SN))
+Added Component: Designator=J2(B3B-XH-A(LF)(SN))
+Added Component: Designator=J3(77311-118-02LF)
+Added Component: Designator=J4(77311-118-02LF)
+Added Component: Designator=J5(B3B-XH-A(LF)(SN))
+Added Component: Designator=J6(B3B-XH-A(LF)(SN))
+Added Component: Designator=J7(77311-118-02LF)
+Added Component: Designator=J8(77311-118-02LF)
+Added Component: Designator=J9(B3B-XH-A(LF)(SN))
+Added Component: Designator=J10(B3B-XH-A(LF)(SN))
+Added Component: Designator=J11(B3B-XH-A(LF)(SN))
+Added Component: Designator=J12(B3B-XH-A(LF)(SN))
+Added Component: Designator=J13(45558-NP)
+Added Pin To Net: NetName=ENDSTOP0 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=VIN Pin=J1-3
+Added Pin To Net: NetName=ENDOUT0 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=VIN Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=VIN Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=ENDSTOP1 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=VIN Pin=J5-3
+Added Pin To Net: NetName=ENDOUT1 Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=VIN Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=VIN Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=ENDSTOP2 Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=VIN Pin=J9-3
+Added Pin To Net: NetName=ENDOUT2 Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=ENDSTOP3 Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=VIN Pin=J11-3
+Added Pin To Net: NetName=ENDOUT3 Pin=J12-1
+Added Pin To Net: NetName=GND Pin=J12-2
+Added Pin To Net: NetName=VIN Pin=J13-1
+Added Pin To Net: NetName=VIN Pin=J13-2
+Added Pin To Net: NetName=VIN Pin=J13-3
+Added Pin To Net: NetName=GND Pin=J13-4
+Added Pin To Net: NetName=GND Pin=J13-5
+Added Pin To Net: NetName=GND Pin=J13-6
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component J1 JST 3-PIN
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component J2 JST 3-PIN
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component J3 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component J4 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component J5 JST 3-PIN
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component J6 JST 3-PIN
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component J7 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component J8 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component J9 JST 3-PIN
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component J10 JST 3-PIN
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component J11 JST 3-PIN
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component J12 JST 3-PIN
+Added Member To Class: ClassName=Sheet1_Etop12 Member=Component J13 0455580003
